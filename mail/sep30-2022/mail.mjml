@@ -1,0 +1,174 @@
+<mjml>
+    <mj-head>
+        <mj-title>Thư mời tham dự Talkshow: A Step Forward - Tiền sự kiện Big Game 2022</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=opensans:300,500"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/huythai855/"
+                          src="https://raw.githubusercontent.com/nyvietnam/mjml/main/thumoi.png"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="1000" padding="0px" font-size="18px">
+                    <strong>Thư mời tham dự Talkshow</strong>
+                </mj-text>
+                <mj-text align="center" font-weight="500" padding="0px" font-size="18px">
+                    <strong>A Step Forward</strong>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="50px">
+                    <p>Kính gửi:
+                        <strong>Ban Thường vụ Đoàn Thanh niên trường Đại học Công nghệ.</strong>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text>
+                    <p>Lời đầu tiên, Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET xin gửi tới <strong>
+                        Ban Thường vụ Đoàn trường
+                    </strong> lời chào và lời chúc sức khỏe trân trọng nhất!
+                    </p>
+
+                    <p>Tiếp nối thành công của “BIGGAME: Chào tân sinh viên” các mùa trước; trên cơ sở sự ủng hộ của Ban
+                        Giám hiệu trường Đại học Công nghệ; sự chỉ đạo, hỗ trợ của Đoàn Thanh niên – Hội Sinh viên
+                        trường; Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ lên kế hoạch tổ chức sự kiện chào
+                        tân sinh viên <strong>“BIGGAME 2022: The Ancient Code”</strong> nhằm tạo sân chơi bổ ích, lành
+                        mạnh, tạo điều kiện cho các bạn tân sinh viên trong trường có dịp giao lưu, gặp gỡ, trao đổi
+                        kinh nghiệm, tăng cường sự đoàn kết, hiểu biết lẫn nhau, đồng thời giúp các bạn tân sinh viên
+                        sớm hòa nhập với môi trường mới.
+                    </p>
+
+                    <p>Điểm nhấn của Biggame 2022 sẽ là 2 sự kiện diễn ra trong tuần: <strong>Talkshow “A Step
+                        Forward”
+                    </strong> và Hội chính <strong>“Biggame: The Ancient Code”</strong>. Sự kiện talkshow được tổ chức
+                        nhằm giúp đỡ và giải tỏa tâm lý cho các sinh viên trước khi bước vào cánh cửa đại học. Đúng như
+                        tên gọi “A Step Forward”, buổi talkshow mong muốn sẽ là một bước tiến giúp các tân sinh viên
+                        chuẩn bị được những hành trang trước khi bước vào môi trường mới.
+                    </p>
+
+                    <p>SGUET xin trân trọng gửi lời mời tới <strong>Ban Thường vụ Đoàn trường</strong> đến tham dự <strong>
+                        Talkshow: A Step Forward
+                    </strong> với thời gian và địa điểm cụ thể như sau:
+                    </p>
+
+                    <ul padding-right="50p">
+                        <li>⏰: <strong>Thời gian:</strong> 19h ngày 6/10/2022 (thứ 5)
+                        </li>
+                        <li>🗺: <strong>Địa điểm</strong> Giảng đường 3-G3, 144 Xuân Thủy
+                        </li>
+                    </ul>
+
+                </mj-text>
+
+                <mj-text>
+                    <p>
+                        <strong>Timeline của sự kiện:</strong>
+                    </p>
+                </mj-text>
+
+
+                <mj-image href="https://www.facebook.com/SupportGroupUET"
+                          src="https://raw.githubusercontent.com/nyvietnam/mjml/main/timeline1.png">
+                </mj-image>
+
+
+                <mj-text padding-top="20px">
+                    <p>Kính mong <strong>Ban Thường vụ Đoàn trường</strong> có phản hồi cùng danh sách của đại diện tham
+                        gia kèm thông tin liên hệ để tiện cho quá trình tiếp đón của Ban tổ chức trong sự kiện sắp tới.
+                    </p>
+                </mj-text>
+
+                <mj-text>
+                    <p>
+                        <i>SGUET rất mong có sự tham dự của quý đơn vị để sự kiện được diễn ra thành công tốt đẹp!</i>
+                    </p>
+                </mj-text>
+
+                <mj-text>
+                    <p>Trân trọng,</p>
+                    <p>
+                        <strong>SGUET</strong>
+                    </p>
+                </mj-text>
+
+                <mj-spacer height="30px"></mj-spacer>
+
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET"
+                          src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p>
+                        <strong>Email:</strong>
+                        <a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a>
+                    </p>
+                    <p>
+                        <strong>Fanpage:</strong>
+                        <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a>
+                    </p>
+                    <p>
+                        <strong>Địa chỉ:</strong>
+                        144 Xuân Thủy, Dịch Vọng, Cầu Giấy, Hà Nội
+                    </p>
+                    <p>
+                        <strong>Điện thoại:</strong>
+                        0932 321 211 - Chủ nhiệm Nguyễn Trung Hiếu
+                    </p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET"
+                                       name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/"
+                                       name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/sguet_cfs/"
+                                       name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com"
+                                       name="google"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="65%">
+
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
