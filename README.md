@@ -17,3 +17,28 @@
 - Lên youtube hay google mà kiếm thêm templates và cách dùng. Cảm giác cái này khá phổ biến nhưng mà giờ mình mới biết, hơi wê :>
 
 Ok, đi đá bóng đã ️⚽️⚽️⚽
+
+# Update cho Hà Nguỹn 1:48 AM 29/10
+
+## Intro
+- **Bỏ qua phần bên trên đi, đọc từ chỗ này**.
+- MJML là một cái ngôn ngữ (?) đại loại thế để đơn giản hóa việc viết mail bằng HTML, để viết siêu ngắn, siêu dễ và tránh các lỗi sai kiểu không fit vào khung blabla, đại loại là 1 ngôn ngữ sinh ra để viết mail động như thế này.
+- Nhìn chung nên hiểu 1 chút, biết 1 chút kiến thức về HTML, một số thẻ, thì nó sẽ dễ hơn (Hình như Hà Nguyễn cũng học HTML với CSS rồi thì phải)
+
+## Rồi, giờ phải làm gì?
+- Mở mấy folder trong này ra, lấy ra 1 file **.mjml** bất kỳ (có thể lấy cái <a href="https://github.com/huythai855/mjml/blob/master/mail/oct27-2022/mail.mjml">này</a>).
+- Copy code của cái file đấy ra, ném vào <a href="https://mjml.io/try-it-live">đây</a>.
+- Nhìn cách nó compile ra HTML, cố hiểu hiểu 1 chút rồi mò tiếp thui, easy.
+- Sau khi MJML render ra ảnh thì bôi đen phần đó rồi ném vào mail để gửi đi thôi.
+
+<br>
+
+*MJML sau khi render. Bôi đen tất cả phần bên phải rồi ném vào phần mail gửi đi thôi.*
+<img src="https://i.imgur.com/4p91Mbj.png"> 
+
+*Demo thêm MJML to HTML*
+<img src="https://i.imgur.com/IKrNxAu.png"> 
+
+
+
+*Chúc Hà Nguỹn may mắn và đỡ đau cổ 🙆*
