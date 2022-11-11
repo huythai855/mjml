@@ -1,0 +1,136 @@
+<mjml>
+    <mj-head>
+        <mj-title>Thư mời tham dự Talkshow: A Step Forward - Tiền sự kiện Big Game 2022</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=opensans:300,500"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/SupportGroupUET/"
+                          src="https://raw.githubusercontent.com/nyvietnam/mjml/main/header-tuyen-quan.png"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="900" padding="0px" font-size="22px">Xác nhận lịch phỏng vấn - Tuyển quân S11 SGUET
+                </mj-text>
+                <mj-text align="center" font-weight="500" padding-top="15px" font-size="20px">Dành cho các ứng viên phỏng vấn ban Tư vấn hỗ trợ
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="20px">
+                    <p>Thân gửi các bạn ứng viên vượt qua vòng đơn và đăng ký tham gia phỏng vấn <strong>ban Tư vấn hỗ trợ Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>,</p>
+
+                    <p>Mình xin tự giới thiệu, mình là Nguyễn Huy Thái,<strong> trưởng ban Tư vấn hỗ trợ SGUET nhiệm kỳ 2022-2023</strong>. </p>
+
+                    <br>
+
+                    <p>Đầu tiên, mình xin được gửi lời cảm ơn chân thành đến tất cả các bạn vì đã yêu thích, đam mê và đăng ký tham gia vào câu lạc bộ nói chung và đặc biệt là ban Tư vấn hỗ trợ của chúng mình! Nhìn vào số lượng đơn đăng ký vào ban rất rất nhiều, điều đó phần nào thể hiện công cuộc hỗ trợ sinh viên của chúng mình phần nào vẫn đang làm tốt và được sự tin tưởng, tín nhiệm của tất cả các bạn. <strong><i>Đây là một sự vinh hạnh, một niềm tự hào, và sẽ là động lực vô cùng to lớn đối với ban Tư vấn hỗ trợ của chúng mình 💙</i></strong></p>
+
+                    <br>
+
+                    <p>Cũng bởi vì số lượng phỏng vấn vào ban quá đông vào năm nay, chúng mình đã dựa trên kết quả biểu mẫu xác nhận thời gian phỏng vấn của các bạn <i>(đã được gửi trong email trước)</i> để sắp xếp lại số lượng ứng viên tham gia từng buổi phỏng vấn cho phù hợp, <strong>tránh trường hợp bị quá tải, mọi người phải chờ lâu và ảnh hưởng đến chất lượng kết quả của vòng phỏng vấn. </strong></p>
+
+                    <br>
+
+                    <p>Vậy nên nếu bạn nhận được email này, chúng mình xin thông báo lại là chúng mình sẽ <strong>sắp xếp bàn phỏng vấn cho bạn</strong> vào <strong>buổi 1:</strong>
+                    <ul padding-right="50p">
+                        <li>⏰ <strong>Thời gian:</strong> 19h00 ngày 31/10/2022 (thứ hai)
+                        </li>
+                        <li>🗺 <strong>Địa điểm:</strong> Phòng 309, Giảng đường 2
+                        </li>
+                    </ul>
+
+                    <br>
+
+                    <p> Một chút lưu ý nho nhỏ khi tham gia vòng phỏng vấn là mọi người cố gắng <strong>đến buổi phỏng vấn đúng giờ</strong>, <strong>di chuyển và đăng ký theo sự hướng dẫn của đội điều phối viên</strong> và nếu có bất kỳ sự thay đổi đột xuất nào, các bạn vui lòng phản hồi lại cho chúng mình qua email này, hoặc nhắn tin trực tiếp về page <a href="https://www.facebook.com/SupportGroupUET">SGUET</a> để được hỗ trợ và giải đáp các thắc mắc. </p>
+                    <br>
+
+                    <p> Một lần nữa, xin được cảm ơn các bạn đã đăng ký tham gia sự kiện tuyển quân S11 của SGUET, chúc các bạn <strong>luôn bình tĩnh, tự tin thể hiện hết bản thân mình khi tham gia buổi phỏng vấn!</strong> 🔥
+                    </p>
+
+                </mj-text>
+
+
+
+
+                <mj-text>
+                    <p>Trưởng ban Tư vấn hỗ trợ,</p>
+
+                    <strong>
+                        <i>Nguyễn Huy Thái</i>
+                    </strong>
+                </mj-text>
+
+
+                <mj-spacer height="50px"></mj-spacer>
+
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET"
+                          src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p>
+                        <strong>Email:</strong>
+                        <a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a>
+                    </p>
+                    <p>
+                        <strong>Fanpage:</strong>
+                        <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a>
+                    </p>
+                    <p>
+                        <strong>Địa chỉ:</strong>
+                        144 Xuân Thủy, Dịch Vọng, Cầu Giấy, Hà Nội
+                    </p>
+                    <p>
+                        <strong>Điện thoại:</strong>
+                        0932321211 - Chủ nhiệm Nguyễn Trung Hiếu
+                    </p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET"
+                                       name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/" name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/sguet_cfs/" name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com" name="google"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="65%">
+
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
