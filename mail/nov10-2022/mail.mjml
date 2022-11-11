@@ -1,0 +1,113 @@
+<mjml>
+    <mj-head>
+        <mj-title>Thư mời tham dự Talkshow: A Step Forward - Tiền sự kiện Big Game 2022</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=opensans:300,500"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/huythai855/" src="https://raw.githubusercontent.com/nyvietnam/mjml/main/sinhnhat.jpg"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="500" padding="0px" font-size="22px"><strong>Thư mời tham dự bữa tiệc sinh nhật 10 năm</strong></mj-text>
+                <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Câu lạc bộ Hỗ trợ sinh viên - SGUET</mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="30px">
+                    <p><i>Thân gửi toàn thể thành viên SGUET,</i></p>
+
+                    <p>Tháng 11 cũng đã tới, báo hiệu rất nhiều khoảnh khắc, sự kiện, hoạt động quan trọng của của Câu lạc bộ chúng ta sắp bắt đầu. Tháng 11 năm nay có thể đặc biệt hơn những năm trước một chút, vì nó <strong>đánh dấu hành trình 10 năm</strong> hình thành và phát triển của câu lạc bộ chúng ta. </p>
+
+                    <p>Mười năm ấy với bao khó khăn, vất vả, được gây dựng lên bởi công sức của bao thế hệ để ngày hôm nay chúng ta được ở đây, được thừa hưởng những tinh hoa, những quả ngọt ấy, và sẽ tiếp tục cống hiến, bảo vệ và truyền ngọn lửa đam mê ấy tới những thế hệ tiếp theo.</p>
+
+                    <p>Để tôn vinh hành trình ấy và đón chào lần sinh nhật thứ 10, chúng em xin phép gửi lời mời tới toàn thể đại gia đình SGUET tới dự <strong>bữa tiệc thân mật</strong> để cùng nhau thổi nến, cắt bánh và cùng nhau đón chào năm thứ 11 của SGUET. Xin được thông tin đến mọi người:</p>
+
+                    <ul padding-right="50p">
+                        <li>⏰ <strong>Thời gian:</strong> 19h00 ngày 14/11/2022 (thứ hai)</li>
+                        <li>🗺 <strong>Địa điểm:</strong> Hotpot Kingdom, ngõ 37 Trần Quốc Hoàn, Cầu Giấy.</li>
+                        <li>🎉 <strong>Nội dung:</strong> Cùng nhau ăn bữa lẩu thân mật, cắt bánh mừng sinh nhật, thưởng thức các tiết mục văn nghệ đến từ các thành viên SGUET.</li>
+                    </ul>
+
+
+                    <p><strong>Chuỗi sự kiện sinh nhật 10 năm</strong> không chỉ dừng lại ở bữa tiệc thân mật mà điểm nhấn thực sự sẽ là <strong>đêm Gala kỷ niệm sinh nhật 10 năm</strong> sẽ diễn ra vào ngày 26/11 sắp tới. Đó sẽ là một bữa tiệc âm thanh, ánh sáng, những lời tâm sự, chia sẻ và cùng nhìn lại hành trình 10 năm đã qua của chúng ta. Sự kiện ấy sẽ được bật mí và thông tin tới cả nhà <strong>trong thời gian gần nhất!</strong></p>
+
+                    <p>Về bữa tiệc ấm cúng vào ngày sinh nhật 14/11 sắp tới đây, nó sẽ đánh dấu một cột mốc quan trọng trong lịch sử của câu lạc bộ. Chúng em rất mong mọi người có thể sắp xếp, bớt chút thời gian tham dự và xác nhận để thuận tiện hơn cho Ban tổ chức trong quá trình chuẩn bị và tiếp đón ạ!</p>
+
+                </mj-text>
+
+                <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px" href="https://forms.gle/GfPFETL4epDMEZVdA">
+                    Xác nhận tham dự</mj-button>
+
+                <mj-text>
+                    <p>Lời cuối, chúng em xin được gửi lời cảm ơn chân thành tới tất cả thành viên SGUET đã cùng nhau tham gia, đóng góp, xây dựng lên hành trình 10 năm của Câu lạc bộ chúng ta. Rất mong sẽ được gặp mọi người tại bữa tiệc sinh nhật sắp tới 💙</p>
+                </mj-text>
+
+                <mj-text>
+                    <p>Thay mặt Ban chủ nhiệm CLB,</p>
+                    <p><strong>Nguyễn Trung Hiếu</strong></p>
+                </mj-text>
+
+
+
+                <mj-spacer height="50px"></mj-spacer>
+
+            </mj-column>
+        </mj-section>
+
+
+
+
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET" src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p><strong>Email: </strong><a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a></p>
+                    <p><strong>Fanpage:</strong> <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a></p>
+                    <p><strong>Địa chỉ:</strong> 144 Xuân Thủy, Dịch Vọng, Cầu Giấy, Hà Nội</p>
+                    <p><strong>Điện thoại:</strong> 0932321211 - Chủ nhiệm Nguyễn Trung Hiếu</p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET" name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/" name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/sguet_cfs/" name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com" name="google"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+
+
+        <mj-section>
+            <mj-column width="65%">
+
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
