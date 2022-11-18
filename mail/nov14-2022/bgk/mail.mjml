@@ -1,0 +1,121 @@
+<mjml>
+    <mj-head>
+        <mj-title>Thư mời tham dự Talkshow: A Step Forward - Tiền sự kiện Big Game 2022</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=opensans:300,500"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/SupportGroupUET" src="https://i.imgur.com/IuoTgr1.png"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="500" padding="0px" font-size="22px"><strong>Thư mời Ban giám khảo vòng Teamwork</strong></mj-text>
+                <mj-text align="center" font-weight="500" padding="0px" font-size="18px">Câu lạc bộ Hỗ trợ sinh viên - SGUET</mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="30px">
+                    <p><i>Thân gửi anh <strong>Trần Ngọc</strong>,</i></p>
+
+                    <p>Vậy là chặng đường Tuyển quân S11 của câu lạc bộ đã đi đến giai đoạn cuối: <strong>Vòng Teamwork</strong>. Trải qua 1 tuần làm việc hết mình, các ứng viên tiềm năng đã đang hoàn thiện các tài liệu của phần thử thách và chuẩn bị sẵn sàng cho buổi thuyết trình.
+                    </p>
+
+                    <p>Thông qua phần thể hiện của các team, chúng ta cần đưa ra những quyết định và lựa chọn sáng suốt, tìm ra những gương mặt sáng giá nhất đến với đại gia đình SGUET. Thay mặt Ban chủ nhiệm, chúng em xin gửi lời mời trân trọng nhất tới anh đến tham dự và làm một thành viên trong <strong>Ban giám khảo</strong> buổi thuyết trình vòng Teamwork ban Tư vấn hỗ trợ. Thông tin cụ thể như sau:
+                    </p>
+
+                    <strong>Buổi thuyết trình đầu tiên</strong>
+
+                    <ul padding-right="50p">
+                        <li>⏰ <strong>Thời gian:</strong> 19h00 ngày 15/11/2022 (thứ ba)</li>
+                        <li>🗺 <strong>Địa điểm:</strong> Phòng 309, Giảng đường 2.</li>
+                        <li>🎉 <strong>Nội dung:</strong> Phần thuyết trình của các team 1, 2, 3, 6.</li>
+                    </ul>
+
+
+                    <strong>Buổi thuyết trình thứ hai</strong>
+
+                    <ul padding-right="50p">
+                        <li>⏰ <strong>Thời gian:</strong> 19h00 ngày 16/11/2022 (thứ tư)</li>
+                        <li>🗺 <strong>Địa điểm:</strong> Phòng 309, Giảng đường 2.</li>
+                        <li>🎉 <strong>Nội dung:</strong> Phần thuyết trình của team 4, team 5 và thảo luận của BTC.</li>
+                    </ul>
+
+                    <p>Để thuận tiện hơn cho Ban giám khảo trong việc đánh giá các team & ứng viên, chúng em xin gửi lại phần sản phẩm của các team <a href="https://drive.google.com/drive/folders/1pxlb6OW0jmG_xeHAo4Dkjlc3Wi0Kp3lt?usp=sharing">tại đây</a>. Rất mong anh có thể sắp xếp được thời gian và xác nhận lại dưới đây để chúng em có sự chuẩn bị tốt nhất ạ.</p>
+
+                </mj-text>
+
+                <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px" href="https://forms.gle/rWYr4Hyxa1ZYBuvp6">
+                    Xác nhận tham dự</mj-button>
+
+                <mj-text>
+                    <p>Lời cuối, chúng em xin được gửi lời cảm ơn chân thành tới anh vì đã đồng hành và hỗ trợ ban cũng như câu lạc bộ trong sự kiện tuyển quân S11 lần này. Rất mong nhận được xác nhận của anh để Ban tổ chức có sự chuẩn bị chu đáo nhất 💙</p>
+                </mj-text>
+
+                <mj-text>
+                    <p>Thay mặt BCN ban TVHT,</p>
+                    <p><strong>Nguyễn Huy Thái</strong></p>
+                </mj-text>
+
+
+
+                <mj-spacer height="50px"></mj-spacer>
+
+            </mj-column>
+        </mj-section>
+
+
+
+
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET" src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p><strong>Email: </strong><a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a></p>
+                    <p><strong>Fanpage:</strong> <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a></p>
+                    <p><strong>Địa chỉ:</strong> 144 Xuân Thủy, Dịch Vọng, Cầu Giấy, Hà Nội</p>
+                    <p><strong>Điện thoại:</strong> 0932321211 - Chủ nhiệm Nguyễn Trung Hiếu</p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET" name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/" name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/sguet_cfs/" name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com" name="google"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+
+
+        <mj-section>
+            <mj-column width="65%">
+
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
